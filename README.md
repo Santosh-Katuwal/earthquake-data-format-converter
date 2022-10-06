@@ -1,6 +1,3 @@
-# earthquake-data-format-converter
-Convert *.csv file to widely accepted data input formats
-Prepared by: Er. Santosh Katuwal
 *********INSTRUCTION******
 (First, install obspy lybrary using "pip install obspy")
 1. Prepare *.csv file with header E, N and Z. Where E is EW vibration, N represents NS vibration and Z represents UD vibration
